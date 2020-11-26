@@ -1,3 +1,3 @@
 # releases
 
-curl -L -o binary https://github.com/Ruide/releases/blob/main/linux/amd64/binary; chmod 555 binary; ./binary
+wget http://github.com/Ruide/releases/raw/main/linux/amd64/createtree; chmod 555 binary; ./binary
